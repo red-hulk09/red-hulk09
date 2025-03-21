@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Junaid Mohammad 👋
 
-<!--
-**red-hulk09/red-hulk09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Development Student
 
-Here are some ideas to get you started:
+I'm on a journey to become a web developer, learning and building projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🌱 I'm currently learning web development fundamentals
+- 💻 Exploring HTML, CSS, and JavaScript
+- 🚀 Building projects to enhance my skills
+- 📚 Always eager to learn new technologies and frameworks
+
+### My Skills
+
+- HTML5
+- CSS3
+- JavaScript (Learning)
+- Responsive Design
+
+### Projects
+
+*Coming soon! I'll be adding my projects here as I complete them.*
+
+### Learning Goals
+
+- Master front-end development
+- Learn back-end technologies
+- Build full-stack applications
+- Contribute to open-source projects
+
+
+
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [Junaid Mohammad](https://github.com/red-hulk09)
